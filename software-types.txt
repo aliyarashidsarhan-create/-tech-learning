@@ -1,2 +1,8 @@
 1. System Software: This is the software that runs the computer itself.
 2. Application Software :This is software that helps users perform specific tasks.
+
+Web Applications :
+are software programs that run on a web server and are accessed through a web browser. They do not require installation on the user's device, making them easy to update and maintain.
+
+Mobile Applications:
+Mobile applications are software programs designed to run on smartphones and tablets, often optimized for touch interaction and smaller screen sizes.
