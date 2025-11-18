@@ -1,0 +1,24 @@
+Git commands:
+1. Setup & Configuration
+
+git config --global user.name "Your Name"	
+git config --global user.email "your@email.com"
+
+2. Starting a Repository
+git init
+git clone <repo-url>
+
+3. Checking Status & History
+
+git status
+git log --oneline
+
+4. Staging & Committing
+git add .
+
+git commit -m "message"
+
+5.Working With GitHub (Remote)
+git remote add origin <url>
+git push
+git pull
