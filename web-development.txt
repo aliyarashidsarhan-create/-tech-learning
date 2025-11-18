@@ -11,3 +11,25 @@ HTML – structure of the website
 CSS – styling and layout
 
 JavaScript – interactivity and dynamic features
+
+2. Back-End Development (Server-Side)
+
+This is the part users don’t see. It handles:
+
+Databases
+
+Servers
+
+Application logic
+
+Common languages & tools:
+
+Node.js
+
+Python (Django/Flask)
+
+PHP
+
+Java
+
+SQL databases
