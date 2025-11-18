@@ -1,3 +1,16 @@
 Stack Comparison – Introduction
 
 When building modern applications, developers choose different technology stacks depending on project goals, performance needs, and team expertise. A technology stack is a combination of tools, frameworks, programming languages, and databases that work together to create a complete application. Comparing stacks helps you understand their strengths, weaknesses, and ideal use cases. Whether you’re evaluating frontend frameworks, backend technologies, or full-stack combinations, a stack comparison gives you a clearer idea of which solution best fits your project.
+
+MERN vs Spring Boot comparison:
+MERN Stack
+
+MongoDB, Express.js, React.js, Node.js
+
+Best for: Full-stack JavaScript applications.
+
+Spring Boot
+
+Java-based backend framework
+
+Best for: Enterprise, scalable, secure backend systems.
