@@ -6,3 +6,7 @@ are software programs that run on a web server and are accessed through a web br
 
 Mobile Applications:
 Mobile applications are software programs designed to run on smartphones and tablets, often optimized for touch interaction and smaller screen sizes.
+
+Desktop Applications:
+
+Desktop applications are software programs installed directly on a computer’s operating system, such as Windows, macOS, or Linux.
