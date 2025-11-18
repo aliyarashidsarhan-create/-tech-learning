@@ -32,4 +32,8 @@ PHP
 
 Java
 
-SQL databases
+SQL databases:
+
+Web Development – Databases (Database Basics)
+
+A database is a system used to store, organize, and manage data so web applications can retrieve and update information efficiently. Almost every modern website uses a database — for example, to store user accounts, product details, orders, messages, posts, etc.
