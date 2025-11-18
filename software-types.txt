@@ -1,0 +1,2 @@
+1. System Software: This is the software that runs the computer itself.
+2. Application Software :This is software that helps users perform specific tasks.
