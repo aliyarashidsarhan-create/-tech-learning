@@ -1,0 +1,4 @@
+Git basics
+
+Commands like git push --set-upstream, git commit, and git log.
+Agile/Scrum methodology and basic version control with Git — foundational concepts in modern software development.
