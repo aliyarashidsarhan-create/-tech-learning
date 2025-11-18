@@ -1,2 +1,13 @@
 Web Development:
  refers to the process of building, creating, and maintaining websites and web applications that run on the internet.
+
+1. Front-End Development (Client-Side)
+
+This is what users see and interact with directly.
+Front-end developers use:
+
+HTML – structure of the website
+
+CSS – styling and layout
+
+JavaScript – interactivity and dynamic features
