@@ -1,0 +1,12 @@
+1. Frontend (React.js)
+
+The frontend is what the user sees and interacts with in the browser.
+
+2. Backend (Node.js + Express.js)
+
+The backend handles the logic, operations, and API endpoints.
+
+
+3. Database (MongoDB)
+
+The database stores all application data.

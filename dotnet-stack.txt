@@ -1,0 +1,55 @@
+1. Frontend (Client-Side)
+
+In the .NET ecosystem, the frontend can be built using:
+
+Blazor
+
+Uses C# instead of JavaScript
+
+Runs in the browser via WebAssembly or server-side
+
+ASP.NET MVC / Razor Pages
+
+Server-rendered HTML pages written in C#
+
+Any JavaScript Framework (optional)
+
+React, Angular, Vue can also work with .NET backend
+
+Often used with ASP.NET Core APIs
+
+2. Backend (Server-Side)
+
+The backend is the core part of the .NET stack:
+
+ASP.NET Core
+
+Modern, fast, cross-platform framework
+
+Build REST APIs, MVC apps, SignalR apps
+
+C#
+
+The main programming language used
+
+Entity Framework Core (EF Core)
+
+ORM used to interact with relational databases
+
+Supports clean architecture, microservices, and more.
+
+3. Database Layer
+
+.NET can work with many databases, including:
+
+SQL Server (most common with .NET)
+
+MySQL
+
+PostgreSQL
+
+SQLite (lightweight)
+
+MongoDB (NoSQL, works well with .NET)
+
+Azure SQL / Cloud Databases
